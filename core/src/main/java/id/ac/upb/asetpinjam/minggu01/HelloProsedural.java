@@ -13,7 +13,7 @@ public final class HelloProsedural {
      * Contoh bentuk: "Hello Aset-Pinjam, saya Budi (2310112345)".
      */
     public static String sapa(String nama, String nim) {
-        return "halo Aset pinjam  saya " + nama + " (" + nim + ")";
+        return "Hello Aset-Pinjam, saya " + nama + " (" + nim + ")";
     }
 
     public static void main(String[] args) {
